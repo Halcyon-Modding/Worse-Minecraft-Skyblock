@@ -2,13 +2,11 @@
   "logbegone": {
     "phrases": [
       "Disconnecting VANILLA connection attempt",
-      "Channels ",
-      "Chunk Activity Tracker"
+      "Channels "
     ],
     "regex": [
       "Disconnecting VANILLA connection attempt",
-      "Channels ",
-      "Chunk Activity Tracker"
+      "Channels "
     ]
   }
 }
