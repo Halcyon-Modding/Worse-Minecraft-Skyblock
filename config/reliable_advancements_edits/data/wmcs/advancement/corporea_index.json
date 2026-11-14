@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "wmcs:item": {
+      "trigger": "botania:corporea_index_request"
+    }
+  },
+  "requirements": [
+    [
+      "wmcs:item"
+    ]
+  ],
+  "parent": "wmcs:crystal_cube",
+  "display": {
+    "icon": {
+      "id": "botania:corporea_index"
+    },
+    "title": "Lily \u0026 the Moon",
+    "description": "Request an item from your network using a Corporea Crystal Cube",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:crystal_cube"
+  ]
+}

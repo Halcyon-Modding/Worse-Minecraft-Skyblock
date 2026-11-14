@@ -1,0 +1,37 @@
+{
+  "criteria": {
+    "wmcs:enchanter": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": [
+          {
+            "predicate": {
+              "block": {
+                "blocks": "botania:mana_enchanter"
+              }
+            },
+            "condition": "minecraft:location_check"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "wmcs:enchanter"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "wmcs:orechid",
+  "display": {
+    "icon": {
+      "id": "botania:mana_enchanter"
+    },
+    "title": "Wishing Well",
+    "description": "Create a Mana Enchanter to have better control over enchanting",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:orechid"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "wmcs:item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "satchels:satchel"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "wmcs:item"
+    ]
+  ],
+  "parent": "wmcs:item_management",
+  "display": {
+    "icon": {
+      "id": "satchels:satchel"
+    },
+    "title": "The Fifteenth Day",
+    "description": "Craft a Satchel to swap in and out frequently used tools from your hotbar!",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:item_management"
+  ]
+}

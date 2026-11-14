@@ -1,0 +1,48 @@
+{
+  "enabled": true,
+  "group": {
+    "break": {
+      "sound_id": "sounds:block.jungle_planks.break"
+    },
+    "fall": {
+      "sound_id": "sounds:block.jungle_planks.fall"
+    },
+    "hit": {
+      "sound_id": "sounds:block.spruce_planks.hit"
+    },
+    "pitch": 1.0,
+    "place": {
+      "sound_id": "sounds:block.jungle_planks.place"
+    },
+    "step": {
+      "sound_id": "sounds:block.jungle_planks.step"
+    },
+    "volume": 1.0
+  },
+  "keys": [
+    "minecraft:jungle_log",
+    "minecraft:jungle_planks",
+    "minecraft:jungle_slab",
+    "minecraft:jungle_stairs",
+    "minecraft:jungle_wood",
+    "minecraft:stripped_jungle_log",
+    "minecraft:stripped_jungle_wood",
+
+    "architects_palette:twisted_log",
+    "architects_palette:twisted_wood",
+    "everycomp:q/architects_palette/hollow_twisted_log",
+
+    "bountifulfares:hoary_log",
+    "bountifulfares:hoary_wood",
+    "everycomp:q/bountifulfares/hollow_hoary_log",
+
+    "#botania:dreamwood_logs",
+    "everycomp:q/botania/hollow_dreamwood_log",
+
+    "bountifulfares:plum_log",
+    "bountifulfares:plum_wood",
+
+    "spicedcider:cacao_log",
+    "spicedcider:cacao_wood"
+  ]
+}

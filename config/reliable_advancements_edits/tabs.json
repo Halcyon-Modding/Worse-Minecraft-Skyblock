@@ -1,0 +1,2559 @@
+{
+  "version": 1,
+  "tabs": {
+    "minecraft:adventure/root": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+      "index": 1,
+      "deleted": true,
+      "roots": [
+        "minecraft:adventure/root"
+      ]
+    },
+    "minecraft:husbandry/root": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/husbandry.png",
+      "index": 2,
+      "deleted": true,
+      "roots": [
+        "minecraft:husbandry/root"
+      ]
+    },
+    "architects_palette:main/root": {
+      "background": "architects_palette:textures/block/myonite_bricks.png",
+      "index": 5,
+      "deleted": true,
+      "roots": [
+        "architects_palette:main/root"
+      ]
+    },
+    "botania:challenge/root": {
+      "title": "Challenges",
+      "background": "botania:textures/block/livingrock_bricks.png",
+      "index": 5,
+      "roots": [
+        "botania:challenge/root"
+      ]
+    },
+    "reliable_advancements:new_tab": {
+      "title": "Progression",
+      "icon": "botania:manasteel_ingot",
+      "background": "botania:textures/block/livingrock_bricks.png",
+      "index": 0,
+      "roots": [
+        "wmcs:begin",
+        "wmcs:beginning",
+        "wmcs:orechid",
+        "botania:main/rune_pickup_copy",
+        "botania:main/rod_of_the_lands_craft_copy",
+        "botania:main/terrasteel_pickup_copy",
+        "botania:main/gaia_guardian_kill_copy",
+        "wmcs:alfheim",
+        "minecraft:story/enter_the_end_copy",
+        "botania:main/ender_essence_make_copy",
+        "botania:main/corporea_craft_copy_copy2",
+        "botania:main/tiara_wings_copy"
+      ],
+      "positions": {
+        "wmcs:begin": [
+          0,
+          0
+        ],
+        "wmcs:beginning": [
+          0,
+          0
+        ],
+        "wmcs:sapling": [
+          0,
+          -44
+        ],
+        "wmcs:orechid": [
+          130,
+          0
+        ],
+        "wmcs:orechid_copy": [
+          50,
+          0
+        ],
+        "wmcs:orechid_copy2": [
+          116,
+          -58
+        ],
+        "wmcs:orechid_copy3": [
+          154,
+          -58
+        ],
+        "wmcs:starter_generating_flower": [
+          72,
+          0
+        ],
+        "wmcs:pure_daisy": [
+          49,
+          -25
+        ],
+        "botania:main/mana_pool_pickup_copy": [
+          94,
+          0
+        ],
+        "botania:main/generating_flower_copy": [
+          47,
+          25
+        ],
+        "botania:main/rune_pickup_copy": [
+          94,
+          36
+        ],
+        "botania:main/assembly_halo_craft_copy": [
+          -437,
+          -155
+        ],
+        "botania:main/brew_pickup_copy": [
+          -368,
+          -9
+        ],
+        "botania:main/ender_essence_make_copy": [
+          175,
+          143
+        ],
+        "botania:main/rod_of_the_lands_craft_copy": [
+          130,
+          36
+        ],
+        "botania:main/terrasteel_pickup_copy": [
+          166,
+          72
+        ],
+        "botania:main/pollidisiac_pickup_copy": [
+          65,
+          -100
+        ],
+        "botania:main/enchanter_make_copy": [
+          130,
+          -36
+        ],
+        "botania:main/elf_portal_open_copy": [
+          166,
+          73
+        ],
+        "botania:main/gaia_guardian_kill_copy": [
+          206,
+          112
+        ],
+        "botania:main/tiara_wings_copy": [
+          112,
+          112
+        ],
+        "botania:main/corporea_craft_copy": [
+          173,
+          -66
+        ],
+        "botania:challenge/gaia_guardian_hardmode_copy": [
+          260,
+          112
+        ],
+        "minecraft:story/form_obsidian_copy": [
+          158,
+          88
+        ],
+        "minecraft:story/enter_the_nether_copy": [
+          166,
+          0
+        ],
+        "minecraft:story/enter_the_end_copy": [
+          206,
+          143
+        ],
+        "botania:main/corporea_craft_copy_copy": [
+          261,
+          -85
+        ],
+        "botania:main/corporea_craft_copy_copy2": [
+          175,
+          182
+        ],
+        "minecraft:new_advancement": [
+          -360,
+          -137
+        ],
+        "botania:main/pollidisiac_pickup_copy_copy": [
+          -327,
+          -167
+        ],
+        "wmcs:alfheim": [
+          206,
+          72
+        ],
+        "wmcs:generating_flower": [
+          49,
+          25
+        ],
+        "wmcs:mana_pool": [
+          94,
+          0
+        ],
+        "wmcs:rune": [
+          94,
+          36
+        ],
+        "wmcs:nether": [
+          166,
+          0
+        ],
+        "wmcs:mana_enchanter": [
+          130,
+          -35
+        ],
+        "wmcs:rod_of_the_lands": [
+          130,
+          36
+        ],
+        "wmcs:terrasteel": [
+          166,
+          72
+        ],
+        "wmcs:gaia_guardian": [
+          206,
+          112
+        ],
+        "wmcs:gaia_guardian_copy": [
+          261,
+          112
+        ],
+        "wmcs:gaia_guardian_upgraded": [
+          245,
+          112
+        ],
+        "wmcs:gaia_guardian_hard": [
+          245,
+          112
+        ],
+        "wmcs:end": [
+          206,
+          143
+        ],
+        "wmcs:ender_air": [
+          175,
+          143
+        ],
+        "wmcs:tiara": [
+          112,
+          112
+        ],
+        "wmcs:corporea": [
+          175,
+          182
+        ],
+        "wmcs:cocoon": [
+          94,
+          -35
+        ],
+        "wmcs:generating_flower_copy": [
+          50,
+          -34
+        ]
+      }
+    },
+    "minecraft:story/root": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "index": 1,
+      "deleted": true,
+      "roots": [
+        "minecraft:story/root"
+      ]
+    },
+    "botania:main/root": {
+      "background": "botania:textures/block/livingwood_log.png",
+      "index": 5,
+      "deleted": true,
+      "roots": [
+        "botania:main/root"
+      ],
+      "positions": {
+        "botania:main/terrasteel_weapon_craft": [
+          160,
+          283
+        ],
+        "botania:main/bubbell_pickup": [
+          192,
+          175
+        ],
+        "botania:main/brew_pickup": [
+          128,
+          162
+        ],
+        "botania:main/life_aggregator_use": [
+          224,
+          270
+        ],
+        "botania:main/generating_flower": [
+          64,
+          94
+        ],
+        "botania:main/pollidisiac_pickup": [
+          128,
+          216
+        ],
+        "botania:main/mana_cart_craft": [
+          96,
+          135
+        ],
+        "botania:main/manaweave_armor_craft": [
+          96,
+          189
+        ],
+        "botania:main/rune_pickup": [
+          96,
+          216
+        ],
+        "botania:main/flower_pickup": [
+          32,
+          108
+        ],
+        "botania:main/kekimurus_pickup": [
+          192,
+          337
+        ],
+        "botania:main/mana_pool_pickup": [
+          64,
+          121
+        ],
+        "botania:main/biscuit_of_totality_eat": [
+          96,
+          54
+        ],
+        "botania:main/root": [
+          0,
+          108
+        ],
+        "botania:main/elf_portal_open": [
+          160,
+          256
+        ],
+        "botania:main/dandelifeon_pickup": [
+          224,
+          243
+        ],
+        "botania:main/gaia_guardian_kill": [
+          192,
+          283
+        ],
+        "botania:main/mana_blaster_shoot": [
+          128,
+          189
+        ],
+        "botania:main/enchanter_make": [
+          96,
+          81
+        ],
+        "botania:main/lexicon_use": [
+          32,
+          135
+        ],
+        "botania:main/terrasteel_pickup": [
+          128,
+          270
+        ],
+        "botania:main/tiara_wings": [
+          224,
+          324
+        ],
+        "botania:main/manastorm_charge_ignite": [
+          224,
+          297
+        ],
+        "botania:main/luminizer_ride": [
+          224,
+          216
+        ],
+        "botania:main/bauble_wear": [
+          96,
+          27
+        ],
+        "botania:main/cacophonium_craft": [
+          32,
+          81
+        ],
+        "botania:main/functional_flower": [
+          96,
+          108
+        ],
+        "botania:main/corporea_craft": [
+          271,
+          143
+        ],
+        "botania:main/assembly_halo_craft": [
+          96,
+          0
+        ],
+        "botania:main/rod_of_the_lands_craft": [
+          128,
+          243
+        ],
+        "botania:main/heisei_dream_pickup": [
+          192,
+          310
+        ],
+        "botania:main/ender_essence_make": [
+          192,
+          202
+        ],
+        "botania:main/tiny_potato_pet": [
+          96,
+          243
+        ],
+        "botania:main/mana_spark_craft": [
+          96,
+          162
+        ],
+        "botania:main/corporea_craft_copy": [
+          240,
+          154
+        ],
+        "botania:main/corporea_craft_copy_copy": [
+          224,
+          195
+        ],
+        "botania:main/pollidisiac_pickup_copy": [
+          129,
+          216
+        ]
+      }
+    },
+    "minecraft:nether/root": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/nether.png",
+      "index": 3,
+      "deleted": true,
+      "roots": [
+        "minecraft:nether/root"
+      ]
+    },
+    "minecraft:end/root": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/end.png",
+      "index": 4,
+      "deleted": true,
+      "roots": [
+        "minecraft:end/root"
+      ]
+    },
+    "bountifulfares:bountiful_fares": {
+      "background": "minecraft:textures/block/farmland_moist.png",
+      "index": 5,
+      "deleted": true,
+      "roots": [
+        "bountifulfares:bountiful_fares"
+      ]
+    },
+    "wmcs:rune": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "index": 5,
+      "deleted": true,
+      "roots": [
+        "wmcs:rune"
+      ],
+      "positions": {
+        "wmcs:rune": [
+          0,
+          0
+        ]
+      }
+    },
+    "wmcs:gaia_guardian": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "index": 5,
+      "deleted": true,
+      "roots": [
+        "wmcs:gaia_guardian"
+      ],
+      "positions": {
+        "wmcs:gaia_guardian": [
+          0,
+          0
+        ]
+      }
+    },
+    "wmcs:ender_air": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "index": 5,
+      "deleted": true,
+      "roots": [
+        "wmcs:ender_air"
+      ],
+      "positions": {
+        "wmcs:ender_air": [
+          0,
+          0
+        ]
+      }
+    },
+    "wmcs:tiara": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "index": 5,
+      "deleted": true,
+      "roots": [
+        "wmcs:tiara"
+      ],
+      "positions": {
+        "wmcs:tiara": [
+          0,
+          0
+        ]
+      }
+    },
+    "wmcs:generating_flower": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "index": 5,
+      "deleted": true,
+      "roots": [
+        "wmcs:generating_flower"
+      ],
+      "positions": {
+        "wmcs:generating_flower": [
+          0,
+          0
+        ]
+      }
+    },
+    "wmcs:mana_pool": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "index": 5,
+      "deleted": true,
+      "roots": [
+        "wmcs:mana_pool"
+      ],
+      "positions": {
+        "wmcs:mana_pool": [
+          0,
+          54
+        ],
+        "wmcs:rune": [
+          32,
+          81
+        ],
+        "wmcs:orechid": [
+          32,
+          27
+        ],
+        "wmcs:gaia_guardian_hard": [
+          128,
+          81
+        ],
+        "wmcs:cocoon": [
+          64,
+          0
+        ],
+        "wmcs:terrasteel": [
+          64,
+          81
+        ],
+        "wmcs:end": [
+          128,
+          54
+        ],
+        "wmcs:mana_enchanter": [
+          64,
+          27
+        ],
+        "wmcs:gaia_guardian": [
+          96,
+          81
+        ],
+        "wmcs:tiara": [
+          128,
+          108
+        ],
+        "wmcs:nether": [
+          64,
+          54
+        ],
+        "wmcs:rod_of_the_lands": [
+          96,
+          54
+        ],
+        "wmcs:corporea": [
+          192,
+          54
+        ],
+        "wmcs:ender_air": [
+          160,
+          54
+        ]
+      }
+    },
+    "crafty_hands:main/dont_do_that": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "index": 5,
+      "deleted": true,
+      "roots": [
+        "crafty_hands:main/dont_do_that"
+      ]
+    },
+    "reliable_advancements:new_tab_2": {
+      "title": "Utilities",
+      "icon": "botania:rod_of_the_skies",
+      "background": "botania:textures/block/lunite.png",
+      "index": 2,
+      "roots": [
+        "minecraft:new_advancement",
+        "wmcs:bundle",
+        "wmcs:backpack",
+        "wmcs:sack",
+        "wmcs:satchel",
+        "wmcs:item_management",
+        "wmcs:general_utility"
+      ],
+      "positions": {
+        "minecraft:new_advancement": [
+          0,
+          0
+        ],
+        "wmcs:bundle": [
+          -2,
+          -29
+        ],
+        "wmcs:bundle_copy": [
+          78,
+          37
+        ],
+        "wmcs:backpack": [
+          -90,
+          -11
+        ],
+        "wmcs:sack": [
+          -2,
+          0
+        ],
+        "wmcs:sack_copy": [
+          -32,
+          133
+        ],
+        "wmcs:satchel": [
+          -90,
+          39
+        ],
+        "wmcs:item_management": [
+          -45,
+          14
+        ],
+        "wmcs:hand_of_ender": [
+          -2,
+          57
+        ],
+        "wmcs:item_management_copy": [
+          151,
+          -92
+        ],
+        "wmcs:general_utility": [
+          -155,
+          104
+        ],
+        "wmcs:backpack_copy": [
+          -90,
+          -72
+        ],
+        "wmcs:storage_crate": [
+          -200,
+          104
+        ],
+        "wmcs:storage_crate_copy": [
+          -90,
+          -84
+        ],
+        "wmcs:storage_crate_copy2": [
+          -90,
+          -43
+        ],
+        "wmcs:open_crate": [
+          -200,
+          59
+        ],
+        "wmcs:crafty_crate": [
+          -254,
+          59
+        ],
+        "wmcs:crafting_mat": [
+          -227,
+          59
+        ],
+        "wmcs:crystal_cube": [
+          -200,
+          149
+        ],
+        "wmcs:crystal_cube_copy": [
+          1,
+          -83
+        ],
+        "wmcs:corporea_index": [
+          -245,
+          104
+        ],
+        "wmcs:crafting_mat_copy": [
+          -45,
+          -84
+        ],
+        "wmcs:label": [
+          -155,
+          149
+        ],
+        "wmcs:hopperhock": [
+          -109,
+          150
+        ],
+        "wmcs:hopperhock_copy": [
+          -45,
+          -219
+        ],
+        "wmcs:rannuncarpus": [
+          -155,
+          14
+        ],
+        "wmcs:rannuncarpus_copy": [
+          -20,
+          -194
+        ],
+        "wmcs:floating_hourglass": [
+          -179,
+          -10
+        ],
+        "wmcs:animated_torch": [
+          -130,
+          39
+        ],
+        "wmcs:label_copy": [
+          -109,
+          195
+        ],
+        "wmcs:hopperhock_filter": [
+          -109,
+          195
+        ]
+      }
+    },
+    "wmcs:item_management": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "index": 5,
+      "deleted": true,
+      "roots": [
+        "wmcs:item_management"
+      ],
+      "positions": {
+        "wmcs:item_management": [
+          -4,
+          41
+        ],
+        "wmcs:sack": [
+          32,
+          54
+        ],
+        "wmcs:backpack": [
+          32,
+          0
+        ],
+        "wmcs:bundle": [
+          32,
+          27
+        ],
+        "wmcs:satchel": [
+          32,
+          81
+        ]
+      }
+    }
+  },
+  "deleted_advancements": {
+    "minecraft:adventure/root": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.root.title\"}",
+      "icon": "minecraft:map"
+    },
+    "minecraft:adventure/avoid_vibration": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.avoid_vibration.title\"}",
+      "icon": "minecraft:sculk_sensor"
+    },
+    "nomansland:main/explode_ore": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"nomansland.advancements.explode_ore.title\"}",
+      "icon": "nomansland:explosive"
+    },
+    "nomansland:main/ignite_flammable_enemy": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"nomansland.advancements.ignite_flammable_enemy.title\"}",
+      "icon": "nomansland:resin_oil_bottle"
+    },
+    "minecraft:adventure/sleep_in_bed": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.sleep_in_bed.title\"}",
+      "icon": "minecraft:red_bed"
+    },
+    "minecraft:adventure/minecraft_trials_edition": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.minecraft_trials_edition.title\"}",
+      "icon": "minecraft:chiseled_tuff"
+    },
+    "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.lightning_rod_with_villager_no_fire.title\"}",
+      "icon": "minecraft:lightning_rod"
+    },
+    "minecraft:adventure/voluntary_exile": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.voluntary_exile.title\"}",
+      "icon": "minecraft:white_banner"
+    },
+    "supplementaries:adventure/road_sign": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.road_sign.title\"}",
+      "icon": "supplementaries:way_sign_oak"
+    },
+    "minecraft:adventure/spyglass_at_parrot": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.spyglass_at_parrot.title\"}",
+      "icon": "minecraft:spyglass"
+    },
+    "minecraft:adventure/kill_a_mob": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.kill_a_mob.title\"}",
+      "icon": "minecraft:iron_sword"
+    },
+    "minecraft:adventure/brush_armadillo": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.brush_armadillo.title\"}",
+      "icon": "minecraft:armadillo_scute"
+    },
+    "minecraft:adventure/adventuring_time": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.adventuring_time.title\"}",
+      "icon": "minecraft:diamond_boots"
+    },
+    "quark:content/get_own_head": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.quark.get_own_head.title\"}",
+      "icon": "minecraft:player_head"
+    },
+    "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.kill_mob_near_sculk_catalyst.title\"}",
+      "icon": "minecraft:sculk_catalyst"
+    },
+    "quark:content/tatami_gaeshi": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.quark.tatami_gaeshi.title\"}",
+      "icon": "quark:bamboo_mat_carpet"
+    },
+    "minecraft:adventure/fall_from_world_height": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.fall_from_world_height.title\"}",
+      "icon": "minecraft:water_bucket"
+    },
+    "minecraft:adventure/overoverkill": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.overoverkill.title\"}",
+      "icon": "minecraft:mace"
+    },
+    "minecraft:adventure/play_jukebox_in_meadows": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.play_jukebox_in_meadows.title\"}",
+      "icon": "minecraft:jukebox"
+    },
+    "minecraft:adventure/hero_of_the_village": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.hero_of_the_village.title\"}",
+      "icon": "minecraft:white_banner"
+    },
+    "nomansland:main/when_pigs_fly": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"nomansland.advancements.when_pigs_fly.title\"}",
+      "icon": "minecraft:saddle"
+    },
+    "quark:content/get_bottled_cloud": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.quark.get_bottled_cloud.title\"}",
+      "icon": "quark:bottled_cloud"
+    },
+    "quark:content/crawl_in_hollow_log": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.quark.crawl_in_hollow_log.title\"}",
+      "icon": "quark:hollow_oak_log"
+    },
+    "minecraft:adventure/read_power_of_chiseled_bookshelf": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.read_power_from_chiseled_bookshelf.title\"}",
+      "icon": "minecraft:chiseled_bookshelf"
+    },
+    "nomansland:main/find_ancient_city": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"nomansland.advancements.find_ancient_city.title\"}",
+      "icon": "minecraft:reinforced_deepslate"
+    },
+    "minecraft:adventure/trade": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.trade.title\"}",
+      "icon": "minecraft:emerald"
+    },
+    "minecraft:adventure/spyglass_at_ghast": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.spyglass_at_ghast.title\"}",
+      "icon": "minecraft:spyglass"
+    },
+    "minecraft:adventure/trim_with_any_armor_pattern": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.trim_with_any_armor_pattern.title\"}",
+      "icon": "minecraft:dune_armor_trim_smithing_template"
+    },
+    "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.walk_on_powder_snow_with_leather_boots.title\"}",
+      "icon": "minecraft:leather_boots"
+    },
+    "supplementaries:adventure/globe": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.globe.title\"}",
+      "icon": "supplementaries:globe"
+    },
+    "minecraft:adventure/salvage_sherd": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.salvage_sherd.title\"}",
+      "icon": "minecraft:brush"
+    },
+    "nomansland:main/find_alchemist_ruins": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"nomansland.advancements.find_alchemist_ruins.title\"}",
+      "icon": "nomansland:ancestral_effigy"
+    },
+    "minecraft:adventure/throw_trident": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.throw_trident.title\"}",
+      "icon": "minecraft:trident"
+    },
+    "minecraft:adventure/crafters_crafting_crafters": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.crafters_crafting_crafters.title\"}",
+      "icon": "minecraft:crafter"
+    },
+    "nomansland:main/kill_anchored_mob": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"nomansland.advancements.kill_anchored_mob.title\"}",
+      "icon": "nomansland:monster_anchor"
+    },
+    "minecraft:adventure/honey_block_slide": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.honey_block_slide.title\"}",
+      "icon": "minecraft:honey_block"
+    },
+    "minecraft:adventure/ol_betsy": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.ol_betsy.title\"}",
+      "icon": "minecraft:crossbow"
+    },
+    "minecraft:adventure/shoot_arrow": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.shoot_arrow.title\"}",
+      "icon": "minecraft:bow"
+    },
+    "minecraft:adventure/lighten_up": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.lighten_up.title\"}",
+      "icon": "minecraft:copper_bulb"
+    },
+    "minecraft:adventure/blowback": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.blowback.title\"}",
+      "icon": "minecraft:wind_charge"
+    },
+    "minecraft:adventure/arbalistic": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.arbalistic.title\"}",
+      "icon": "minecraft:crossbow"
+    },
+    "minecraft:adventure/under_lock_and_key": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.under_lock_and_key.title\"}",
+      "icon": "minecraft:trial_key"
+    },
+    "minecraft:adventure/who_needs_rockets": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.who_needs_rockets.title\"}",
+      "icon": "minecraft:wind_charge"
+    },
+    "minecraft:adventure/revaulting": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.revaulting.title\"}",
+      "icon": "minecraft:ominous_trial_key"
+    },
+    "minecraft:adventure/summon_iron_golem": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.summon_iron_golem.title\"}",
+      "icon": "minecraft:carved_pumpkin"
+    },
+    "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.trim_with_all_exclusive_armor_patterns.title\"}",
+      "icon": "minecraft:silence_armor_trim_smithing_template"
+    },
+    "minecraft:adventure/very_very_frightening": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.very_very_frightening.title\"}",
+      "icon": "minecraft:trident"
+    },
+    "minecraft:adventure/kill_all_mobs": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.kill_all_mobs.title\"}",
+      "icon": "minecraft:diamond_sword"
+    },
+    "nomansland:main/collect_ancient_tools": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"nomansland.advancements.collect_ancient_tools.title\"}",
+      "icon": "nomansland:ritual_pick"
+    },
+    "minecraft:adventure/craft_decorated_pot_using_only_sherds": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.craft_decorated_pot_using_only_sherds.title\"}",
+      "icon": "minecraft:decorated_pot"
+    },
+    "minecraft:adventure/totem_of_undying": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.totem_of_undying.title\"}",
+      "icon": "minecraft:totem_of_undying"
+    },
+    "nomansland:main/dream_friend_moon": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"nomansland.advancements.dream_friend_moon.title\"}",
+      "icon": "nomansland:warding_effigy"
+    },
+    "minecraft:adventure/spyglass_at_dragon": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.spyglass_at_dragon.title\"}",
+      "icon": "minecraft:spyglass"
+    },
+    "minecraft:adventure/trade_at_world_height": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.trade_at_world_height.title\"}",
+      "icon": "minecraft:emerald"
+    },
+    "minecraft:adventure/sniper_duel": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.sniper_duel.title\"}",
+      "icon": "minecraft:arrow"
+    },
+    "minecraft:adventure/bullseye": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.bullseye.title\"}",
+      "icon": "minecraft:target"
+    },
+    "minecraft:adventure/two_birds_one_arrow": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.two_birds_one_arrow.title\"}",
+      "icon": "minecraft:crossbow"
+    },
+    "minecraft:adventure/whos_the_pillager_now": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.whos_the_pillager_now.title\"}",
+      "icon": "minecraft:crossbow"
+    },
+    "nomansland:main/meet_friend_moon": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"nomansland.advancements.meet_friend_moon.title\"}",
+      "icon": "nomansland:ancient_bronze_mask"
+    },
+    "nomansland:main/buddy_ascension": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"nomansland.advancements.buddy_ascension.title\"}",
+      "icon": "minecraft:red_mushroom"
+    },
+    "minecraft:husbandry/root": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.root.title\"}",
+      "icon": "minecraft:hay_block"
+    },
+    "minecraft:husbandry/allay_deliver_item_to_player": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.allay_deliver_item_to_player.title\"}",
+      "icon": "minecraft:cookie"
+    },
+    "minecraft:husbandry/tadpole_in_a_bucket": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.tadpole_in_a_bucket.title\"}",
+      "icon": "minecraft:tadpole_bucket"
+    },
+    "supplementaries:husbandry/wrench": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.wrench.title\"}",
+      "icon": "supplementaries:wrench"
+    },
+    "minecraft:husbandry/ride_a_boat_with_a_goat": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.ride_a_boat_with_a_goat.title\"}",
+      "icon": "minecraft:oak_boat"
+    },
+    "minecraft:husbandry/obtain_sniffer_egg": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.obtain_sniffer_egg.title\"}",
+      "icon": "minecraft:sniffer_egg"
+    },
+    "minecraft:husbandry/tame_an_animal": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.tame_an_animal.title\"}",
+      "icon": "minecraft:lead"
+    },
+    "minecraft:husbandry/make_a_sign_glow": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.make_a_sign_glow.title\"}",
+      "icon": "minecraft:glow_ink_sac"
+    },
+    "nomansland:main/tree_juice": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"nomansland.advancements.use_tap.title\"}",
+      "icon": "nomansland:tap"
+    },
+    "minecraft:husbandry/leash_all_frog_variants": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.leash_all_frog_variants.title\"}",
+      "icon": "minecraft:lead"
+    },
+    "supplementaries:husbandry/turn_table": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.turn_table.title\"}",
+      "icon": "supplementaries:turn_table"
+    },
+    "minecraft:husbandry/whole_pack": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.whole_pack.title\"}",
+      "icon": "minecraft:bone"
+    },
+    "minecraft:husbandry/plant_seed": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.plant_seed.title\"}",
+      "icon": "minecraft:wheat"
+    },
+    "minecraft:husbandry/allay_deliver_cake_to_note_block": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.allay_deliver_cake_to_note_block.title\"}",
+      "icon": "minecraft:note_block"
+    },
+    "minecraft:husbandry/fishy_business": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.fishy_business.title\"}",
+      "icon": "minecraft:fishing_rod"
+    },
+    "quark:content/ancient_apple_overlevel": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.quark.ancient_apple_overlevel.title\"}",
+      "icon": "quark:ancient_fruit"
+    },
+    "minecraft:husbandry/remove_wolf_armor": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.remove_wolf_armor.title\"}",
+      "icon": "minecraft:shears"
+    },
+    "quark:content/get_all_blossom_saplings": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.quark.get_all_blossom_saplings.title\"}",
+      "icon": "quark:red_blossom_sapling"
+    },
+    "minecraft:husbandry/balanced_diet": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.balanced_diet.title\"}",
+      "icon": "minecraft:apple"
+    },
+    "minecraft:husbandry/safely_harvest_honey": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.safely_harvest_honey.title\"}",
+      "icon": "minecraft:honey_bottle"
+    },
+    "minecraft:husbandry/tactical_fishing": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.tactical_fishing.title\"}",
+      "icon": "minecraft:pufferfish_bucket"
+    },
+    "supplementaries:husbandry/angry_birds": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.angry_birds.title\"}",
+      "icon": "supplementaries:slingshot"
+    },
+    "supplementaries:husbandry/soap": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.soap.title\"}",
+      "icon": "supplementaries:soap"
+    },
+    "minecraft:husbandry/feed_snifflet": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.feed_snifflet.title\"}",
+      "icon": "minecraft:torchflower_seeds"
+    },
+    "supplementaries:husbandry/sus_stew": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.sus_stew.title\"}",
+      "icon": "minecraft:suspicious_stew"
+    },
+    "minecraft:husbandry/silk_touch_nest": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.silk_touch_nest.title\"}",
+      "icon": "minecraft:bee_nest"
+    },
+    "minecraft:husbandry/breed_an_animal": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.breed_an_animal.title\"}",
+      "icon": "minecraft:wheat"
+    },
+    "minecraft:husbandry/complete_catalogue": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.complete_catalogue.title\"}",
+      "icon": "minecraft:cod"
+    },
+    "minecraft:husbandry/froglights": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.froglights.title\"}",
+      "icon": "minecraft:verdant_froglight"
+    },
+    "minecraft:husbandry/repair_wolf_armor": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.repair_wolf_armor.title\"}",
+      "icon": "minecraft:wolf_armor"
+    },
+    "minecraft:husbandry/obtain_netherite_hoe": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.netherite_hoe.title\"}",
+      "icon": "minecraft:netherite_hoe"
+    },
+    "minecraft:husbandry/plant_any_sniffer_seed": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.plant_any_sniffer_seed.title\"}",
+      "icon": "minecraft:pitcher_pod"
+    },
+    "minecraft:husbandry/axolotl_in_a_bucket": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.axolotl_in_a_bucket.title\"}",
+      "icon": "minecraft:axolotl_bucket"
+    },
+    "minecraft:husbandry/wax_on": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.wax_on.title\"}",
+      "icon": "minecraft:honeycomb"
+    },
+    "minecraft:husbandry/bred_all_animals": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.breed_all_animals.title\"}",
+      "icon": "minecraft:golden_carrot"
+    },
+    "minecraft:husbandry/kill_axolotl_target": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.kill_axolotl_target.title\"}",
+      "icon": "minecraft:tropical_fish_bucket"
+    },
+    "quark:content/poison_baby": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.quark.poison_baby.title\"}",
+      "icon": "minecraft:poisonous_potato"
+    },
+    "minecraft:husbandry/wax_off": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.wax_off.title\"}",
+      "icon": "minecraft:stone_axe"
+    },
+    "architects_palette:main/root": {
+      "owner": "architects_palette:main/root",
+      "tab": "architects_palette:main/root",
+      "title": "{\"translate\":\"architects_palette.advancement.root\"}",
+      "icon": "architects_palette:chiseled_abyssaline_bricks"
+    },
+    "architects_palette:main/find_warpstone": {
+      "owner": "architects_palette:main/root",
+      "tab": "architects_palette:main/root",
+      "title": "{\"translate\":\"architects_palette.advancement.find_warpstone\"}",
+      "icon": "architects_palette:warpstone"
+    },
+    "architects_palette:main/buy_celestial_stone": {
+      "owner": "architects_palette:main/root",
+      "tab": "architects_palette:main/root",
+      "title": "{\"translate\":\"architects_palette.advancement.buy_celestial_stone\"}",
+      "icon": "architects_palette:sunstone"
+    },
+    "architects_palette:main/buy_spool": {
+      "owner": "architects_palette:main/root",
+      "tab": "architects_palette:main/root",
+      "title": "{\"translate\":\"architects_palette.advancement.buy_spool\"}",
+      "icon": "architects_palette:spool"
+    },
+    "architects_palette:main/find_twisted_sapling": {
+      "owner": "architects_palette:main/root",
+      "tab": "architects_palette:main/root",
+      "title": "{\"translate\":\"architects_palette.advancement.find_twisted_sapling\"}",
+      "icon": "architects_palette:twisted_sapling"
+    },
+    "architects_palette:main/buy_fish_block": {
+      "owner": "architects_palette:main/root",
+      "tab": "architects_palette:main/root",
+      "title": "{\"translate\":\"architects_palette.advancement.buy_fish_block\"}",
+      "icon": "architects_palette:cod_log"
+    },
+    "architects_palette:main/buy_entrails": {
+      "owner": "architects_palette:main/root",
+      "tab": "architects_palette:main/root",
+      "title": "{\"translate\":\"architects_palette.advancement.buy_entrails\"}",
+      "icon": "architects_palette:entrails"
+    },
+    "architects_palette:main/totem_carving": {
+      "owner": "architects_palette:main/root",
+      "tab": "architects_palette:main/root",
+      "title": "{\"translate\":\"architects_palette.advancement.totem_carving\"}",
+      "icon": "architects_palette:placid_acacia_totem"
+    },
+    "architects_palette:main/place_entrails": {
+      "owner": "architects_palette:main/root",
+      "tab": "architects_palette:main/root",
+      "title": "{\"translate\":\"architects_palette.advancement.place_entrails\"}",
+      "icon": "architects_palette:entrails"
+    },
+    "architects_palette:main/buy_plating": {
+      "owner": "architects_palette:main/root",
+      "tab": "architects_palette:main/root",
+      "title": "{\"translate\":\"architects_palette.advancement.buy_plating\"}",
+      "icon": "architects_palette:plating_block"
+    },
+    "architects_palette:main/buy_pipe": {
+      "owner": "architects_palette:main/root",
+      "tab": "architects_palette:main/root",
+      "title": "{\"translate\":\"architects_palette.advancement.buy_pipe\"}",
+      "icon": "architects_palette:pipe"
+    },
+    "wmcs:orechid_copy2": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "\"Orechid\"",
+      "icon": "botania:orechid"
+    },
+    "wmcs:orechid_copy3": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "\"Orechid\"",
+      "icon": "botania:orechid"
+    },
+    "wmcs:starter_generating_flower": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "\"Generating Flower\"",
+      "icon": "botania:endoflame"
+    },
+    "minecraft:story/form_obsidian_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "{\"translate\":\"advancements.story.form_obsidian.title\"}",
+      "icon": "minecraft:obsidian"
+    },
+    "botania:main/corporea_craft": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:corporeaCraft\"}",
+      "icon": "botania:corporea_crystal_cube"
+    },
+    "botania:main/corporea_craft_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:corporeaCraft\"}",
+      "icon": "botania:corporea_crystal_cube"
+    },
+    "botania:main/pollidisiac_pickup": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:pollidisiacPickup\"}",
+      "icon": "botania:pollidisiac"
+    },
+    "botania:main/brew_pickup_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "{\"translate\":\"advancement.botania:brewPickup\"}",
+      "icon": "botania:botanical_brewery"
+    },
+    "botania:main/assembly_halo_craft_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "{\"translate\":\"advancement.botania:craftingHaloCraft\"}",
+      "icon": "botania:assembly_halo"
+    },
+    "botania:main/pollidisiac_pickup_copy_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "{\"translate\":\"advancement.botania:pollidisiacPickup\"}",
+      "icon": "botania:pollidisiac"
+    },
+    "wmcs:sapling": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "\"Sapling\"",
+      "icon": "minecraft:oak_sapling"
+    },
+    "minecraft:story/root": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.root.title\"}",
+      "icon": "minecraft:grass_block"
+    },
+    "minecraft:story/mine_stone": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.mine_stone.title\"}",
+      "icon": "minecraft:wooden_pickaxe"
+    },
+    "minecraft:story/upgrade_tools": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.upgrade_tools.title\"}",
+      "icon": "minecraft:stone_pickaxe"
+    },
+    "minecraft:story/smelt_iron": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.smelt_iron.title\"}",
+      "icon": "minecraft:iron_ingot"
+    },
+    "quark:content/get_all_corundum": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.quark.get_all_corundum.title\"}",
+      "icon": "quark:blue_corundum_cluster"
+    },
+    "minecraft:story/obtain_armor": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.obtain_armor.title\"}",
+      "icon": "minecraft:iron_chestplate"
+    },
+    "minecraft:story/lava_bucket": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.lava_bucket.title\"}",
+      "icon": "minecraft:lava_bucket"
+    },
+    "minecraft:story/deflect_arrow": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.deflect_arrow.title\"}",
+      "icon": "minecraft:shield"
+    },
+    "minecraft:story/iron_tools": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.iron_tools.title\"}",
+      "icon": "minecraft:iron_pickaxe"
+    },
+    "minecraft:story/mine_diamond": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.mine_diamond.title\"}",
+      "icon": "minecraft:diamond"
+    },
+    "minecraft:story/form_obsidian": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.form_obsidian.title\"}",
+      "icon": "minecraft:obsidian"
+    },
+    "minecraft:story/shiny_gear": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.shiny_gear.title\"}",
+      "icon": "minecraft:diamond_chestplate"
+    },
+    "minecraft:story/enchant_item": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.enchant_item.title\"}",
+      "icon": "minecraft:enchanted_book"
+    },
+    "minecraft:story/enter_the_nether": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.enter_the_nether.title\"}",
+      "icon": "minecraft:flint_and_steel"
+    },
+    "quark:content/influence": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.quark.influence.title\"}",
+      "icon": "minecraft:lime_candle"
+    },
+    "minecraft:story/cure_zombie_villager": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.cure_zombie_villager.title\"}",
+      "icon": "minecraft:golden_apple"
+    },
+    "supplementaries:story/unenchanter": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.unenchanter.title\"}",
+      "icon": "minecraft:enchanted_golden_apple"
+    },
+    "minecraft:story/follow_ender_eye": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.follow_ender_eye.title\"}",
+      "icon": "minecraft:ender_eye"
+    },
+    "minecraft:story/enter_the_end": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.enter_the_end.title\"}",
+      "icon": "minecraft:end_stone"
+    },
+    "minecraft:nether/root": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.root.title\"}",
+      "icon": "minecraft:red_nether_bricks"
+    },
+    "minecraft:nether/obtain_crying_obsidian": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.obtain_crying_obsidian.title\"}",
+      "icon": "minecraft:crying_obsidian"
+    },
+    "minecraft:nether/charge_respawn_anchor": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.charge_respawn_anchor.title\"}",
+      "icon": "minecraft:respawn_anchor"
+    },
+    "minecraft:nether/distract_piglin": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.distract_piglin.title\"}",
+      "icon": "minecraft:gold_ingot"
+    },
+    "minecraft:nether/return_to_sender": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.return_to_sender.title\"}",
+      "icon": "minecraft:fire_charge"
+    },
+    "minecraft:nether/find_bastion": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.find_bastion.title\"}",
+      "icon": "minecraft:polished_blackstone_bricks"
+    },
+    "minecraft:nether/ride_strider": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.ride_strider.title\"}",
+      "icon": "minecraft:warped_fungus_on_a_stick"
+    },
+    "minecraft:nether/obtain_ancient_debris": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.obtain_ancient_debris.title\"}",
+      "icon": "minecraft:ancient_debris"
+    },
+    "minecraft:nether/fast_travel": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.fast_travel.title\"}",
+      "icon": "minecraft:map"
+    },
+    "minecraft:nether/use_lodestone": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.use_lodestone.title\"}",
+      "icon": "minecraft:lodestone"
+    },
+    "minecraft:nether/uneasy_alliance": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.uneasy_alliance.title\"}",
+      "icon": "minecraft:ghast_tear"
+    },
+    "minecraft:nether/find_fortress": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.find_fortress.title\"}",
+      "icon": "minecraft:nether_bricks"
+    },
+    "minecraft:nether/obtain_blaze_rod": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.obtain_blaze_rod.title\"}",
+      "icon": "minecraft:blaze_rod"
+    },
+    "minecraft:nether/loot_bastion": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.loot_bastion.title\"}",
+      "icon": "minecraft:chest"
+    },
+    "minecraft:nether/netherite_armor": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.netherite_armor.title\"}",
+      "icon": "minecraft:netherite_chestplate"
+    },
+    "minecraft:nether/brew_potion": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.brew_potion.title\"}",
+      "icon": "minecraft:potion"
+    },
+    "supplementaries:nether/goblet": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.goblet.title\"}",
+      "icon": "supplementaries:goblet"
+    },
+    "minecraft:nether/ride_strider_in_overworld_lava": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.ride_strider_in_overworld_lava.title\"}",
+      "icon": "minecraft:warped_fungus_on_a_stick"
+    },
+    "minecraft:nether/explore_nether": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.explore_nether.title\"}",
+      "icon": "minecraft:netherite_boots"
+    },
+    "minecraft:nether/get_wither_skull": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.get_wither_skull.title\"}",
+      "icon": "minecraft:wither_skeleton_skull"
+    },
+    "quark:content/watcher_center": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.quark.watcher_center.title\"}",
+      "icon": "quark:ender_watcher"
+    },
+    "minecraft:nether/all_potions": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.all_potions.title\"}",
+      "icon": "minecraft:milk_bucket"
+    },
+    "minecraft:nether/summon_wither": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.summon_wither.title\"}",
+      "icon": "minecraft:nether_star"
+    },
+    "minecraft:nether/all_effects": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.all_effects.title\"}",
+      "icon": "minecraft:bucket"
+    },
+    "minecraft:nether/create_beacon": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.create_beacon.title\"}",
+      "icon": "minecraft:beacon"
+    },
+    "minecraft:nether/create_full_beacon": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.create_full_beacon.title\"}",
+      "icon": "minecraft:beacon"
+    },
+    "quark:content/redirect_beacon": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.quark.redirect_beacon.title\"}",
+      "icon": "minecraft:beacon"
+    },
+    "minecraft:end/root": {
+      "owner": "minecraft:end/root",
+      "tab": "minecraft:end/root",
+      "title": "{\"translate\":\"advancements.end.root.title\"}",
+      "icon": "minecraft:end_stone"
+    },
+    "minecraft:end/kill_dragon": {
+      "owner": "minecraft:end/root",
+      "tab": "minecraft:end/root",
+      "title": "{\"translate\":\"advancements.end.kill_dragon.title\"}",
+      "icon": "minecraft:dragon_head"
+    },
+    "minecraft:end/dragon_egg": {
+      "owner": "minecraft:end/root",
+      "tab": "minecraft:end/root",
+      "title": "{\"translate\":\"advancements.end.dragon_egg.title\"}",
+      "icon": "minecraft:dragon_egg"
+    },
+    "minecraft:end/enter_end_gateway": {
+      "owner": "minecraft:end/root",
+      "tab": "minecraft:end/root",
+      "title": "{\"translate\":\"advancements.end.enter_end_gateway.title\"}",
+      "icon": "minecraft:ender_pearl"
+    },
+    "quark:content/use_viaduct": {
+      "owner": "minecraft:end/root",
+      "tab": "minecraft:end/root",
+      "title": "{\"translate\":\"advancements.quark.use_viaduct.title\"}",
+      "icon": "quark:myalite_crystal"
+    },
+    "minecraft:end/respawn_dragon": {
+      "owner": "minecraft:end/root",
+      "tab": "minecraft:end/root",
+      "title": "{\"translate\":\"advancements.end.respawn_dragon.title\"}",
+      "icon": "minecraft:end_crystal"
+    },
+    "minecraft:end/dragon_breath": {
+      "owner": "minecraft:end/root",
+      "tab": "minecraft:end/root",
+      "title": "{\"translate\":\"advancements.end.dragon_breath.title\"}",
+      "icon": "minecraft:dragon_breath"
+    },
+    "minecraft:end/find_end_city": {
+      "owner": "minecraft:end/root",
+      "tab": "minecraft:end/root",
+      "title": "{\"translate\":\"advancements.end.find_end_city.title\"}",
+      "icon": "minecraft:purpur_block"
+    },
+    "minecraft:end/elytra": {
+      "owner": "minecraft:end/root",
+      "tab": "minecraft:end/root",
+      "title": "{\"translate\":\"advancements.end.elytra.title\"}",
+      "icon": "minecraft:elytra"
+    },
+    "minecraft:end/levitate": {
+      "owner": "minecraft:end/root",
+      "tab": "minecraft:end/root",
+      "title": "{\"translate\":\"advancements.end.levitate.title\"}",
+      "icon": "minecraft:shulker_shell"
+    },
+    "bountifulfares:bountiful_fares": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.bountiful_fares\"}",
+      "icon": "bountifulfares:passion_fruit"
+    },
+    "bountifulfares:obtain_walnut": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.obtain_walnut\"}",
+      "icon": "bountifulfares:walnut"
+    },
+    "bountifulfares:obtain_spongekin_seeds": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.obtain_spongekin_seeds\"}",
+      "icon": "bountifulfares:spongekin_seeds"
+    },
+    "bountifulfares:feed_wolf_mulch": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.feed_wolf_mulch\"}",
+      "icon": "bountifulfares:walnut_mulch"
+    },
+    "bountifulfares:make_first_food": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.make_first_food\"}",
+      "icon": "bountifulfares:leek_stew"
+    },
+    "bountifulfares:obtain_sun_hat": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.obtain_sun_hat\"}",
+      "icon": "bountifulfares:sun_hat"
+    },
+    "bountifulfares:plant_on_trellis": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.plant_on_trellis\"}",
+      "icon": "bountifulfares:trellis"
+    },
+    "bountifulfares:eat_all_bad_foods": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.eat_all_bad_foods\"}",
+      "icon": "minecraft:chicken"
+    },
+    "bountifulfares:place_gristmill": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.place_gristmill\"}",
+      "icon": "bountifulfares:gristmill"
+    },
+    "bountifulfares:obtain_tiffin": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.obtain_tiffin\"}",
+      "icon": "bountifulfares:shulker_tiffin"
+    },
+    "bountifulfares:obtain_feldspar": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.obtain_feldspar\"}",
+      "icon": "bountifulfares:feldspar"
+    },
+    "bountifulfares:obtain_ceramic_clay": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.obtain_ceramic_clay\"}",
+      "icon": "bountifulfares:ceramic_clay"
+    },
+    "bountifulfares:obtain_spongekin": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.obtain_spongekin\"}",
+      "icon": "bountifulfares:spongekin"
+    },
+    "bountifulfares:pick_fruit": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.pick_fruit\"}",
+      "icon": "minecraft:apple"
+    },
+    "bountifulfares:eat_all_food": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.eat_all_food\"}",
+      "icon": "bountifulfares:crusted_beef"
+    },
+    "bountifulfares:obtain_golden_apple_sapling": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.obtain_golden_apple_sapling\"}",
+      "icon": "bountifulfares:golden_apple_sapling"
+    },
+    "bountifulfares:obtain_all_fruit": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.obtain_all_fruit\"}",
+      "icon": "bountifulfares:plum"
+    },
+    "bountifulfares:craft_food_in_tiffin": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.craft_food_in_tiffin\"}",
+      "icon": "bountifulfares:white_shulker_tiffin"
+    },
+    "bountifulfares:obtain_flour": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.obtain_flour\"}",
+      "icon": "bountifulfares:flour"
+    },
+    "bountifulfares:eat_ancient_fruit": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.eat_ancient_fruit\"}",
+      "icon": "bountifulfares:hoary_apple"
+    },
+    "bountifulfares:place_all_baked_goods": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.place_all_baked_goods\"}",
+      "icon": "bountifulfares:artisan_bread"
+    },
+    "bountifulfares:obtain_artisan_brush": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.obtain_artisan_brush\"}",
+      "icon": "bountifulfares:artisan_brush"
+    },
+    "bountifulfares:obtain_lemon_block": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.how_easy\"}",
+      "icon": "bountifulfares:lemon"
+    },
+    "bountifulfares:eat_all_candy": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.eat_all_candy\"}",
+      "icon": "bountifulfares:candy"
+    },
+    "bountifulfares:obtain_tea_blends": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.obtain_tea_blends\"}",
+      "icon": "bountifulfares:tea_leaves"
+    },
+    "bountifulfares:obtain_prismarine_blossom": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.obtain_prismarine_blossom\"}",
+      "icon": "bountifulfares:prismarine_blossom"
+    },
+    "bountifulfares:dye_leather_armor_on_armor_stand": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.dye_leather_armor_on_armor_stand\"}",
+      "icon": "minecraft:leather_leggings"
+    },
+    "bountifulfares:place_all_tea_candles": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.place_all_tea_candles\"}",
+      "icon": "bountifulfares:green_tea_candle"
+    },
+    "bountifulfares:fill_tiffin": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.fill_tiffin\"}",
+      "icon": "bountifulfares:purple_shulker_tiffin"
+    },
+    "bountifulfares:obtain_fermentation_vessel": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.obtain_fermentation_vessel\"}",
+      "icon": "bountifulfares:fermentation_vessel"
+    },
+    "bountifulfares:obtain_golden_apple": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.obtain_golden_apple\"}",
+      "icon": "minecraft:golden_apple"
+    },
+    "bountifulfares:eat_citrus_essence": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.eat_citrus_essence\"}",
+      "icon": "bountifulfares:citrus_essence"
+    },
+    "bountifulfares:throw_flour_as_cover": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.throw_flour_as_cover\"}",
+      "icon": "bountifulfares:flour"
+    },
+    "bountifulfares:dye_ceramic_block": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.dye_ceramic_block\"}",
+      "icon": "bountifulfares:ceramic_tiles"
+    },
+    "bountifulfares:acidify_effect_2_levels": {
+      "owner": "bountifulfares:bountiful_fares",
+      "tab": "bountifulfares:bountiful_fares",
+      "title": "{\"translate\":\"advancement.bountifulfares.acidify_effect_2_levels\"}",
+      "icon": "minecraft:potion"
+    },
+    "botania:main/generating_flower_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "\"A Kindling, of Sorts\"",
+      "icon": "botania:endoflame"
+    },
+    "botania:main/mana_pool_pickup_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "\"Glowing\"",
+      "icon": "botania:mana_pool"
+    },
+    "botania:main/rune_pickup_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "\"Planetarium Stickers on a Bedroom Ceiling\"",
+      "icon": "botania:runic_altar"
+    },
+    "minecraft:story/enter_the_nether_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "\"There Beneath\"",
+      "icon": "minecraft:netherrack"
+    },
+    "botania:main/enchanter_make_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "\"Wishing Well\"",
+      "icon": "botania:mana_enchanter"
+    },
+    "botania:main/rod_of_the_lands_craft_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "\"On The Mountain Tall\"",
+      "icon": "botania:rod_of_the_lands"
+    },
+    "botania:main/terrasteel_pickup_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "\"Smoke Rising Like Lifted Hands\"",
+      "icon": "botania:terrasteel_ingot"
+    },
+    "botania:main/gaia_guardian_kill_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "\"Pale White Horse\"",
+      "icon": "botania:gaia_head"
+    },
+    "botania:main/root": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"itemGroup.botania\"}",
+      "icon": "botania:lexica_botania"
+    },
+    "botania:main/mana_pool_pickup_lexicon": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root"
+    },
+    "botania:main/flower_pickup_lexicon": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root"
+    },
+    "botania:main/cacophonium_craft": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:cacophoniumCraft\"}",
+      "icon": "botania:cacophonium"
+    },
+    "botania:main/flower_pickup": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:flowerPickup\"}",
+      "icon": "botania:pink_mystical_flower"
+    },
+    "botania:main/mana_pool_pickup": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:manaPoolPickup\"}",
+      "icon": "botania:mana_pool"
+    },
+    "botania:main/enchanter_make": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:enchanterMake\"}",
+      "icon": "botania:mana_enchanter"
+    },
+    "botania:main/lexicon_use": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:lexiconUse\"}",
+      "icon": "botania:lexica_botania"
+    },
+    "botania:main/apothecary_pickup": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root"
+    },
+    "botania:main/dog": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root"
+    },
+    "botania:main/terrasteel_pickup_lexicon": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root"
+    },
+    "botania:main/generating_flower": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:generatingFlower\"}",
+      "icon": "botania:endoflame"
+    },
+    "botania:main/biscuit_of_totality_eat": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:manaCookieEat\"}",
+      "icon": "botania:biscuit_of_totality"
+    },
+    "botania:main/mana_spark_craft": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:sparkCraft\"}",
+      "icon": "botania:mana_spark"
+    },
+    "botania:main/mana_cart_craft": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:manaCartCraft\"}",
+      "icon": "botania:mana_pool_minecart"
+    },
+    "botania:main/runic_altar_pickup": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root"
+    },
+    "botania:main/bauble_wear": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:baubleWear\"}",
+      "icon": "botania:band_of_mana"
+    },
+    "botania:main/pure_daisy_pickup": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root"
+    },
+    "botania:main/manaweave_armor_craft": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:manaweaveArmorCraft\"}",
+      "icon": "botania:manaweave_cloth"
+    },
+    "botania:main/functional_flower": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:functionalFlower\"}",
+      "icon": "botania:bellethorne"
+    },
+    "botania:main/assembly_halo_craft": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:craftingHaloCraft\"}",
+      "icon": "botania:assembly_halo"
+    },
+    "botania:main/tiny_potato_pet": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:tinyPotatoPet\"}",
+      "icon": "botania:tiny_potato"
+    },
+    "botania:main/rune_pickup": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:runePickup\"}",
+      "icon": "botania:runic_altar"
+    },
+    "botania:main/pollidisiac_pickup_copy": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:pollidisiacPickup\"}",
+      "icon": "botania:pollidisiac"
+    },
+    "botania:main/rod_of_the_lands_craft": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:dirtRodCraft\"}",
+      "icon": "botania:rod_of_the_lands"
+    },
+    "botania:main/brew_pickup": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:brewPickup\"}",
+      "icon": "botania:botanical_brewery"
+    },
+    "botania:main/mana_blaster_shoot": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:manaBlasterShoot\"}",
+      "icon": "botania:mana_blaster"
+    },
+    "botania:main/terrasteel_pickup": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:terrasteelPickup\"}",
+      "icon": "botania:terrasteel_ingot"
+    },
+    "botania:main/terrasteel_weapon_craft": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:terrasteelWeaponCraft\"}",
+      "icon": "botania:terra_blade"
+    },
+    "botania:main/elf_portal_open": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:elfPortalOpen\"}",
+      "icon": "botania:elven_gateway_core"
+    },
+    "botania:main/elf_lexicon_pickup": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root"
+    },
+    "botania:main/ender_essence_make": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:enderEssenceMake\"}",
+      "icon": "botania:pure_ender_essence"
+    },
+    "botania:main/corporea_craft_copy_copy": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:corporeaCraft\"}",
+      "icon": "botania:corporea_crystal_cube"
+    },
+    "botania:main/bubbell_pickup": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:bubbellPickup\"}",
+      "icon": "botania:bubbell"
+    },
+    "botania:main/luminizer_ride": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:luminizerRide\"}",
+      "icon": "botania:luminizer"
+    },
+    "botania:main/heisei_dream_pickup": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:heiseiDreamPickup\"}",
+      "icon": "botania:heisei_dream"
+    },
+    "botania:main/kekimurus_pickup": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:kekimurusPickup\"}",
+      "icon": "botania:kekimurus"
+    },
+    "botania:main/gaia_guardian_kill": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:gaiaGuardianKill\"}",
+      "icon": "botania:gaia_head"
+    },
+    "botania:main/dandelifeon_pickup": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:dandelifeonPickup\"}",
+      "icon": "botania:dandelifeon"
+    },
+    "botania:main/manastorm_charge_ignite": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:manaBombIgnite\"}",
+      "icon": "botania:manastorm_charge"
+    },
+    "botania:main/life_aggregator_use": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:spawnerMoverUse\"}",
+      "icon": "botania:life_aggregator"
+    },
+    "botania:main/tiara_wings": {
+      "owner": "botania:main/root",
+      "tab": "botania:main/root",
+      "title": "{\"translate\":\"advancement.botania:tiaraWings\"}",
+      "icon": "botania:flugel_tiara"
+    },
+    "wmcs:gaia_guardian_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "\"Pale White Horse\"",
+      "icon": "botania:gaia_head"
+    },
+    "wmcs:gaia_guardian_upgraded": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "\"Where Is Your Rider\"",
+      "icon": "botania:gaia_ingot"
+    },
+    "minecraft:story/enter_the_end_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "\"Constellations\"",
+      "icon": "minecraft:end_stone"
+    },
+    "botania:main/ender_essence_make_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "\"Cold Is The Night\"",
+      "icon": "botania:pure_ender_essence"
+    },
+    "botania:main/tiara_wings_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "\"Zephyrus\"",
+      "icon": "botania:flugel_tiara"
+    },
+    "botania:main/corporea_craft_copy_copy2": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "\"Murmurations\"",
+      "icon": "botania:corporea_crystal_cube"
+    },
+    "crafty_hands:main/dont_do_that": {
+      "owner": "crafty_hands:main/dont_do_that",
+      "tab": "crafty_hands:main/dont_do_that",
+      "title": "{\"translate\":\"advancements.crafty_hands.dont_do_that.title\"}",
+      "icon": "crafty_hands:glove_right"
+    },
+    "wmcs:generating_flower_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab",
+      "title": "\"A Kindling, of Sorts\"",
+      "icon": "botania:endoflame"
+    },
+    "wmcs:bundle_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab_2",
+      "title": "\"Bundle\"",
+      "icon": "minecraft:bundle"
+    },
+    "minecraft:new_advancement": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab_2",
+      "title": "\"Item Management\"",
+      "icon": "minecraft:chest"
+    },
+    "wmcs:sack_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab_2",
+      "title": "\"Sack\"",
+      "icon": "supplementaries:sack"
+    },
+    "wmcs:item_management_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab_2",
+      "title": "\"Brand New Fall\"",
+      "icon": "minecraft:chest"
+    },
+    "wmcs:backpack_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab_2",
+      "title": "\"Template\"",
+      "icon": "reliable_backpacks:backpack"
+    },
+    "wmcs:storage_crate_copy2": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab_2",
+      "title": "\"Template\"",
+      "icon": "quark:crate"
+    },
+    "wmcs:storage_crate_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab_2",
+      "title": "\"Template\"",
+      "icon": "quark:crate"
+    },
+    "wmcs:crafting_mat_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab_2",
+      "title": "\"Template\"",
+      "icon": "crafting_mats:crafting_mat"
+    },
+    "wmcs:crystal_cube_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab_2",
+      "title": "\"Template\"",
+      "icon": "botania:corporea_crystal_cube"
+    },
+    "wmcs:hopperhock_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab_2",
+      "title": "\"Template\"",
+      "icon": "botania:hopperhock"
+    },
+    "wmcs:rannuncarpus_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab_2",
+      "title": "\"Template\"",
+      "icon": "botania:rannuncarpus"
+    },
+    "wmcs:label_copy": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "reliable_advancements:new_tab_2",
+      "title": "\"Template\"",
+      "icon": "labels:label"
+    }
+  },
+  "derived_presentation": {
+    "minecraft:story/root": {
+      "title": "Minecraft",
+      "icon": "minecraft:grass_block",
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "minecraft:adventure/root": {
+      "title": "Adventure",
+      "icon": "minecraft:map",
+      "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png"
+    },
+    "minecraft:husbandry/root": {
+      "title": "Husbandry",
+      "icon": "minecraft:hay_block",
+      "background": "minecraft:textures/gui/advancements/backgrounds/husbandry.png"
+    },
+    "minecraft:nether/root": {
+      "title": "Nether",
+      "icon": "minecraft:red_nether_bricks",
+      "background": "minecraft:textures/gui/advancements/backgrounds/nether.png"
+    },
+    "minecraft:end/root": {
+      "title": "The End",
+      "icon": "minecraft:end_stone",
+      "background": "minecraft:textures/gui/advancements/backgrounds/end.png"
+    },
+    "architects_palette:main/root": {
+      "title": "Architect\u0027s Palette",
+      "icon": "architects_palette:chiseled_abyssaline_bricks",
+      "background": "architects_palette:textures/block/myonite_bricks.png"
+    },
+    "botania:challenge/root": {
+      "title": "Botania Challenges",
+      "icon": "botania:dice_of_fate",
+      "background": "botania:textures/block/livingrock_bricks.png"
+    },
+    "botania:main/root": {
+      "title": "Botania",
+      "icon": "botania:lexica_botania",
+      "background": "botania:textures/block/livingwood_log.png"
+    },
+    "bountifulfares:bountiful_fares": {
+      "title": "Bountiful Fares",
+      "icon": "bountifulfares:passion_fruit",
+      "background": "minecraft:textures/block/farmland_moist.png"
+    },
+    "wmcs:beginning": {
+      "title": "Garden of Glass",
+      "icon": "botania:world_seed"
+    },
+    "wmcs:orechid": {
+      "title": "Orechid",
+      "icon": "botania:orechid"
+    },
+    "botania:main/rune_pickup_copy": {
+      "title": "Planetarium Stickers on a Bedroom Ceiling",
+      "icon": "botania:runic_altar"
+    },
+    "botania:main/terrasteel_pickup_copy": {
+      "title": "Smoke Rising Like Lifted Hands",
+      "icon": "botania:terrasteel_ingot"
+    },
+    "wmcs:rune": {
+      "title": "Planetarium Stickers on a Bedroom Ceiling",
+      "icon": "botania:runic_altar"
+    },
+    "botania:main/gaia_guardian_kill_copy": {
+      "title": "Pale White Horse",
+      "icon": "botania:gaia_head"
+    },
+    "minecraft:story/enter_the_end_copy": {
+      "title": "Constellations",
+      "icon": "minecraft:end_stone"
+    },
+    "wmcs:gaia_guardian": {
+      "title": "Pale White Horse",
+      "icon": "botania:gaia_head"
+    },
+    "botania:main/ender_essence_make_copy": {
+      "title": "Cold Is The Night",
+      "icon": "botania:pure_ender_essence"
+    },
+    "botania:main/tiara_wings_copy": {
+      "title": "Zephyrus",
+      "icon": "botania:flugel_tiara"
+    },
+    "wmcs:ender_air": {
+      "title": "Cold Is The Night",
+      "icon": "botania:pure_ender_essence"
+    },
+    "wmcs:tiara": {
+      "title": "Zephyrus",
+      "icon": "botania:flugel_tiara"
+    },
+    "crafty_hands:main/dont_do_that": {
+      "title": "Don\u0027t do that",
+      "icon": "crafty_hands:glove_right"
+    },
+    "wmcs:generating_flower": {
+      "title": "A Kindling, of Sorts",
+      "icon": "botania:endoflame"
+    },
+    "wmcs:mana_pool": {
+      "title": "Glowing",
+      "icon": "botania:mana_pool"
+    },
+    "minecraft:new_advancement": {
+      "title": "Item Management",
+      "icon": "minecraft:chest"
+    },
+    "wmcs:bundle": {
+      "title": "Bundle",
+      "icon": "minecraft:bundle"
+    },
+    "wmcs:sack": {
+      "title": "Sack",
+      "icon": "supplementaries:sack"
+    },
+    "wmcs:item_management": {
+      "title": "Item Management",
+      "icon": "minecraft:chest"
+    },
+    "wmcs:general_utility": {
+      "title": "General Utility",
+      "icon": "minecraft:crafting_table"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "orechid": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "botania:orechid"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "orechid"
+    ]
+  ],
+  "display": {
+    "icon": {
+      "id": "botania:orechid",
+      "count": 1
+    },
+    "title": "Lapis Lazuli",
+    "description": "Craft an Orechid for your ore generation needs"
+  },
+  "parent": "wmcs:mana_pool",
+  "parents": [
+    "wmcs:mana_pool"
+  ]
+}

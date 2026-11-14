@@ -1,0 +1,17 @@
+filename = 'bountifulfares-neoforge-1.21.1-3.0.13.jar'
+name = 'Bountiful Fares'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.0.13'
+
+[download]
+hash = '3ac45025ced7a0636e2baf598d725d02efef3946497f72c3f78c12ad09295a42f18ee9fa0f7deeb7f000917348d93b826e8ef12b7aec2db6cf804eedbff761b4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YgrSDjlb/versions/w8uM2PS4/bountifulfares-neoforge-1.21.1-3.0.13.jar'
+
+[update.modrinth]
+mod-id = 'YgrSDjlb'
+version = 'w8uM2PS4'

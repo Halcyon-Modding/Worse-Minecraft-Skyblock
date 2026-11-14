@@ -1,0 +1,9 @@
+{
+  "priority": 502,
+  "add": {
+    "botania:glimmering_livingwood_log": "botania:glimmering_livingwood",
+    "botania:glimmering_stripped_livingwood_log": "botania:glimmering_stripped_livingwood",
+    "botania:glimmering_dreamwood_log": "botania:glimmering_dreamwood",
+    "botania:glimmering_stripped_dreamwood_log": "botania:glimmering_stripped_dreamwood"
+  }
+}

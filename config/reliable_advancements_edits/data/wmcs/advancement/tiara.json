@@ -1,0 +1,134 @@
+{
+  "criteria": {
+    "tiara_5": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "botania:flugel_tiara",
+            "components": {
+              "botania:tiara_variant": 5
+            }
+          }
+        ]
+      }
+    },
+    "tiara_4": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "botania:flugel_tiara",
+            "components": {
+              "botania:tiara_variant": 4
+            }
+          }
+        ]
+      }
+    },
+    "tiara_3": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "botania:flugel_tiara",
+            "components": {
+              "botania:tiara_variant": 3
+            }
+          }
+        ]
+      }
+    },
+    "tiara_2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "botania:flugel_tiara",
+            "components": {
+              "botania:tiara_variant": 2
+            }
+          }
+        ]
+      }
+    },
+    "tiara_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "botania:flugel_tiara",
+            "components": {
+              "botania:tiara_variant": 1
+            }
+          }
+        ]
+      }
+    },
+    "tiara_8": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "botania:flugel_tiara",
+            "components": {
+              "botania:tiara_variant": 8
+            }
+          }
+        ]
+      }
+    },
+    "tiara_7": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "botania:flugel_tiara",
+            "components": {
+              "botania:tiara_variant": 7
+            }
+          }
+        ]
+      }
+    },
+    "tiara_6": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "botania:flugel_tiara",
+            "components": {
+              "botania:tiara_variant": 6
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "tiara_1",
+      "tiara_2",
+      "tiara_3",
+      "tiara_4",
+      "tiara_5",
+      "tiara_6",
+      "tiara_7",
+      "tiara_8"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "wmcs:gaia_guardian",
+  "display": {
+    "icon": {
+      "id": "botania:flugel_tiara"
+    },
+    "title": "Zephyrus",
+    "description": "Craft and adorn a Flügel Tiara with Flügel Wings",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:gaia_guardian",
+    "wmcs:ender_air"
+  ]
+}

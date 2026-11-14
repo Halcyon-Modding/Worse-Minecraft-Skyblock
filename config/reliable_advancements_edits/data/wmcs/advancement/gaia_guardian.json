@@ -1,0 +1,36 @@
+{
+  "criteria": {
+    "guardian": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "predicate": {
+              "type": "botania:gaia_guardian"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "guardian"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "wmcs:alfheim",
+  "display": {
+    "icon": {
+      "id": "botania:gaia_head",
+      "count": 1
+    },
+    "title": "Pale White Horse",
+    "description": "Summon and slay a Gaia Guardian for a Ritual of Gaia"
+  },
+  "parents": [
+    "wmcs:alfheim"
+  ]
+}

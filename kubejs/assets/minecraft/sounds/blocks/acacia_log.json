@@ -1,0 +1,38 @@
+{
+  "enabled": true,
+  "group": {
+    "break": {
+      "sound_id": "sounds:block.acacia_log.break"
+    },
+    "fall": {
+      "sound_id": "sounds:block.acacia_log.fall"
+    },
+    "hit": {
+      "sound_id": "sounds:block.acacia_log.hit"
+    },
+    "pitch": 1.0,
+    "place": {
+      "sound_id": "sounds:block.acacia_log.place"
+    },
+    "step": {
+      "sound_id": "sounds:block.acacia_log.step"
+    },
+    "volume": 1.0
+  },
+  "keys": [
+    "minecraft:acacia_log",
+    "minecraft:acacia_wood",
+    "quark:hollow_acacia_log",
+
+    "nomansland:walnut_log",
+    "nomansland:walnut_wood",
+    "everycomp:q/nomansland/hollow_walnut_log",
+
+    "bountifulfares:walnut_log",
+    "bountifulfares:walnut_wood",
+    "everycomp:q/bountifulfares/hollow_walnut_log",
+
+    "bountifulfares:orange_log",
+    "bountifulfares:orange_wood"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "criteria": {
+    "dirtrod": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "botania:rod_of_the_lands"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "dirtrod"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "wmcs:nether",
+  "display": {
+    "icon": {
+      "id": "botania:rod_of_the_lands"
+    },
+    "title": "On The Mountain Tall",
+    "description": "Craft a Rod of the Lands, providing renewable Dirt",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:nether",
+    "wmcs:rune"
+  ]
+}

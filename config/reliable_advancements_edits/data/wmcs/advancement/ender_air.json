@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "essence": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#botania:ender_essences"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "essence"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "wmcs:end",
+  "display": {
+    "icon": {
+      "id": "botania:pure_ender_essence"
+    },
+    "title": "Cold Is The Night",
+    "description": "Collect a Flask of Ender Essence",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:end"
+  ]
+}

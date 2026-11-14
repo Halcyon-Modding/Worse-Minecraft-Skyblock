@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "id": "botania:world_seed"
+    },
+    "title": "O Sleeper",
+    "description": "Wake up in the Garden of Glass",
+    "frame": "challenge",
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+  },
+  "criteria": {
+    "wmcs:beginning": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "wmcs:beginning"
+    ]
+  ],
+  "reliable_advancements:tab_member": true
+}

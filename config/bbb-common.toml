@@ -1,0 +1,29 @@
+#Makes every wood set use the Cherry wood set's sounds.
+#Read while blocks are being registered: requires a game restart to take effect.
+cherry_wood_sounds = true
+#Makes every Prismarine block use Deepslate sounds.
+#Read while blocks are being registered: requires a game restart to take effect.
+prismarine_deepslate_sounds = true
+
+#Disable blocks, removing them from Creative tabs, loot, and recipes.
+[block_groups]
+	boards = true
+	polished = true
+	trim = true
+	pillars = true
+	beams = true
+	tables = true
+	chairs = true
+	frames = true
+	timber_frames = true
+	shutters = true
+	lanterns = true
+	windows = true
+	colored_planks = true
+	stone_tiles = true
+	prismarine_tiles = true
+	terracotta = true
+	plaster = true
+	sofas = true
+	curtains = true
+	layers = true

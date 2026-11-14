@@ -1,0 +1,245 @@
+{
+    "music.game": {
+        "replace": true,
+    "sounds": [
+      {
+        "name": "music/lumentactique1",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/lumentactique2",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/lumentactique3",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/lumentactique4",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/lumentactique5",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/lumentactique6",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/lumentactique7",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/lumentactique8",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/lumentactique9",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/lumentactique10",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/lumentactique12",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/rawpracticesii1",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/rawpracticesii2",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/rawpracticesii3",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/rawpracticesii4",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/rawpracticesii5",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/rawpracticesii6",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/rawpracticesii7",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/rawpracticesii8",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/rawpracticesii9",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/rawpracticesii10",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/southcougarsjazzensemble1",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/southcougarsjazzensemble2",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/southcougarsjazzensemble3",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/southcougarsjazzensemble4",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/southcougarsjazzensemble5",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/southcougarsjazzensemble6",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/southcougarsjazzensemble7",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/southcougarsjazzensemble9",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/theancomarsenal1",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/theancomarsenal2",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/theancomarsenal3",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/theancomarsenal4",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/theancomarsenal5",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/theancomarsenal6",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/theancomarsenal7",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/theancomarsenal8",
+        "stream": true,
+        "volume": 0.4
+      },
+    {
+        "name": "music/theancomarsenal9",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+},
+
+"music.menu": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]
+  },
+  "music.creative": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]
+  },
+  "music.credits": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]
+  },
+  "music.under_water": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]
+  },
+  "music.nether.nether_wastes": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music.game",
+        "type": "event"
+      }
+    ]
+  }
+}
+
+    

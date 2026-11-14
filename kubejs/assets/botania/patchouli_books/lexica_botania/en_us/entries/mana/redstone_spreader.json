@@ -1,0 +1,18 @@
+{
+  "name": "botania.entry.redstoneSpreader",
+  "category": "botania:mana",
+  "icon": "botania:pulse_mana_spreader",
+  "advancement": "wmcs:pure_daisy",
+  "priority": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.redstoneSpreader0"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.redstoneSpreader1",
+      "recipe": "botania:pulse_mana_spreader"
+    }
+  ]
+}

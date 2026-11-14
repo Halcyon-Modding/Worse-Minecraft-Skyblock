@@ -1,0 +1,36 @@
+{
+  "criteria": {
+    "wmcs:item": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "predicate": {
+              "block": {
+                "blocks": "botania:corporea_crystal_cube"
+              }
+            },
+            "condition": "minecraft:location_check"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "wmcs:item"
+    ]
+  ],
+  "parent": "wmcs:general_utility",
+  "display": {
+    "icon": {
+      "id": "botania:corporea_crystal_cube"
+    },
+    "title": "All The Light We Don\u0027t See",
+    "description": "Place a Corporea Crystal Cube, allowing you to see the total of an item type and extract or deposit it from your network",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:general_utility"
+  ]
+}

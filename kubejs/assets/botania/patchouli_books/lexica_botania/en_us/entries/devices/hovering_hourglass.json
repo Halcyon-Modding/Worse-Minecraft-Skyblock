@@ -1,0 +1,38 @@
+{
+  "name": "botania.entry.hovering_hourglass",
+  "category": "botania:devices",
+  "icon": "botania:hovering_hourglass",
+  "priority": true,
+  "advancement": "wmcs:mana_pool",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.hourglass0"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.hourglass1"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.hourglass2"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.hourglass3"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.hourglass4"
+    },
+    {
+      "type": "text",
+      "text": "botania.page.hourglass6"
+    },
+    {
+      "type": "crafting",
+      "text": "botania.page.hourglass5",
+      "recipe": "botania:hovering_hourglass"
+    }
+  ]
+}

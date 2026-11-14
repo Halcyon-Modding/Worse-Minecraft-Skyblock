@@ -1,0 +1,36 @@
+{
+  "criteria": {
+    "wmcs:cocoon": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "predicate": {
+              "block": {
+                "blocks": "botania:cocoon_of_caprice"
+              }
+            },
+            "condition": "minecraft:location_check"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "wmcs:cocoon"
+    ]
+  ],
+  "parent": "wmcs:orechid",
+  "display": {
+    "icon": {
+      "id": "botania:cocoon_of_caprice"
+    },
+    "title": "A Convocation of Fauns",
+    "description": "Place a Cocoon of Caprice to hatch a mob",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:orechid"
+  ]
+}

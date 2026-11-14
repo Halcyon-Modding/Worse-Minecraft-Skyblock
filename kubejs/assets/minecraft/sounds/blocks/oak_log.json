@@ -1,0 +1,44 @@
+{
+  "enabled": true,
+  "group": {
+    "break": {
+      "sound_id": "sounds:block.oak_log.break"
+    },
+    "fall": {
+      "sound_id": "sounds:block.oak_log.fall"
+    },
+    "hit": {
+      "sound_id": "sounds:block.oak_log.hit"
+    },
+    "pitch": 1.0,
+    "place": {
+      "sound_id": "sounds:block.oak_log.place"
+    },
+    "step": {
+      "sound_id": "sounds:block.oak_log.step"
+    },
+    "volume": 1.0
+  },
+  "keys": [
+    "minecraft:dark_oak_log",
+    "minecraft:dark_oak_wood",
+    "quark:hollow_dark_oak_log",
+    "minecraft:oak_log",
+    "minecraft:oak_wood",
+    "quark:hollow_oak_log",
+
+    "quark:ancient_log",
+    "quark:ancient_wood",
+    "quark:hollow_ancient_log",
+
+    "nomansland:maple_log",
+    "nomansland:maple_wood",
+    "everycomp:q/nomansland/hollow_maple_log",
+
+    "bountifulfares:apple_log",
+    "bountifulfares:apple_wood",
+
+    "spicedcider:pear_log",
+    "spicedcider:pear_wood"
+  ]
+}

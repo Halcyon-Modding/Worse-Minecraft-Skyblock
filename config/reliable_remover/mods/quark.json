@@ -1,0 +1,18 @@
+[
+  {
+    "action": "remove",
+    "items": [
+      "quark:cherry_bookshelf",
+      "quark:bamboo_bookshelf",
+      "quark:mangrove_bookshelf",
+      "quark:warped_bookshelf",
+      "quark:crimson_bookshelf",
+      "quark:dark_oak_bookshelf",
+      "quark:acacia_bookshelf",
+      "quark:jungle_bookshelf",
+      "quark:birch_bookshelf",
+      "quark:spruce_bookshelf",
+      "quark:chute"
+    ]
+  }
+]

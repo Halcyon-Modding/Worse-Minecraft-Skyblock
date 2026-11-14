@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "flower": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#botania:generating_special_flowers"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "flower"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "wmcs:beginning",
+  "display": {
+    "icon": {
+      "id": "botania:endoflame"
+    },
+    "title": "A Kindling, of Sorts",
+    "description": "Craft a generating flower in a Petal Apothecary",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:beginning"
+  ]
+}

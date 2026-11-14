@@ -1,0 +1,17 @@
+filename = 'spicedcider-1.6.1.jar'
+name = 'Cider Core'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.6.1+1.21.1'
+
+[download]
+hash = '279b1f284cd3f12ebaf9446ea2bbff05d8f6359747a7e34df76dd352e0de825ec7e44e9484aa734af3e85c9804d39fe2e30b3b73dbe3042efc5503dac2afd7d8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Fg6qWws8/versions/Axx9RzgT/spicedcider-1.6.1.jar'
+
+[update.modrinth]
+mod-id = 'Fg6qWws8'
+version = 'Axx9RzgT'

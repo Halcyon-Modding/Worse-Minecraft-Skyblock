@@ -1,0 +1,16 @@
+{
+  "name": "botania.challenge.kekimurusSetup",
+  "category": "botania:challenges",
+  "icon": "botania:kekimurus",
+  "read_by_default": true,
+  "advancement": "wmcs:mana_pool",
+  "entry_color": "aa00aa",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "quest",
+      "title": "botania.challenge.kekimurusSetup",
+      "text": "botania.challenge.kekimurusSetup.desc"
+    }
+  ]
+}

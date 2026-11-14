@@ -1,0 +1,20 @@
+{
+  "name": "botania.entry.medumone",
+  "category": "botania:functional_flowers",
+  "icon": "botania:medumone",
+  "advancement": "wmcs:rune",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.medumone0"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "text": "botania.page.medumone1",
+      "recipe": "botania:petal_apothecary/medumone"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:floating_medumone": 1
+  }
+}

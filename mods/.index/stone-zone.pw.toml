@@ -1,0 +1,17 @@
+filename = 'stonezone-1.21-2.11.21-neoforge.jar'
+name = 'Every Compat (Stone Zone)'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21-2.11.21'
+
+[download]
+hash = '0459803b0419a8d6d9e7db71b42dade820156bb113d347b7d67c797ef44c8192b991cc68fede53a75c406ee6d497fe0f15155b171020a454549ed3d87a0fc6a5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uYwn8IP5/versions/puB4TTAc/stonezone-1.21-2.11.21-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'uYwn8IP5'
+version = 'puB4TTAc'

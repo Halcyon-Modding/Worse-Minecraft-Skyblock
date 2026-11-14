@@ -1,0 +1,38 @@
+{
+  "criteria": {
+    "pickup": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "botania:corporea_crystal_cube",
+              "botania:corporea_funnel",
+              "botania:corporea_index",
+              "botania:corporea_interceptor",
+              "botania:corporea_retainer"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "pickup"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "wmcs:ender_air",
+  "display": {
+    "icon": {
+      "id": "botania:corporea_crystal_cube"
+    },
+    "title": "Murmurations",
+    "description": "Craft a block that makes use of the Corporea Network",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:ender_air"
+  ]
+}

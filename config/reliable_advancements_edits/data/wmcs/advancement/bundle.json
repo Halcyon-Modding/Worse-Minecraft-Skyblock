@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "wmcs:item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:bundle"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "wmcs:item"
+    ]
+  ],
+  "parent": "wmcs:item_management",
+  "display": {
+    "icon": {
+      "id": "minecraft:bundle"
+    },
+    "title": "Rolodex",
+    "description": "Craft a Bundle, used to store small amounts of various items",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:item_management"
+  ]
+}

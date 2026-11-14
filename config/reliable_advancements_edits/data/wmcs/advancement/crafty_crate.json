@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "wmcs:item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "botania:crafty_crate"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "wmcs:item"
+    ]
+  ],
+  "parent": "wmcs:general_utility",
+  "display": {
+    "icon": {
+      "id": "botania:crafty_crate"
+    },
+    "title": "Silver Swarm",
+    "description": "Craft a Crafty Crate, which can be used to automatically craft anything a Crafting Table can",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:general_utility"
+  ]
+}

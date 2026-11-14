@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "rune": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#botania:runes"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "rune"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "wmcs:mana_pool",
+  "display": {
+    "icon": {
+      "id": "botania:runic_altar"
+    },
+    "title": "Planetarium Stickers on a Bedroom Ceiling",
+    "description": "Use a Runic Altar to create a Rune",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:mana_pool"
+  ]
+}

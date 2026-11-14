@@ -1,0 +1,17 @@
+filename = 'redelightmap-1.3.0+1.20.5-1.21.1-neoforge.jar'
+name = 'Redelight-map'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.20.5', '1.20.6', '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Redelight-map v1.3.0 for 1.20.5-1.21.1 NeoForge'
+
+[download]
+hash = 'd6abcd0420abd4268fe6eb5f63ddfd6a8a1bffde'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8973922
+project-id = 1700105

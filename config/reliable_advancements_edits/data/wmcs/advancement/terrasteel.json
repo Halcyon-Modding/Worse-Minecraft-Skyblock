@@ -1,0 +1,33 @@
+{
+  "criteria": {
+    "terrasteel": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "botania:terrasteel_ingot"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "terrasteel"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "wmcs:rune",
+  "display": {
+    "icon": {
+      "id": "botania:terrasteel_ingot"
+    },
+    "title": "Smoke Rising Like Lifted Hands",
+    "description": "Conjure a Terrasteel Ingot using a Terrestrial Agglomeration Plate",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:rune",
+    "wmcs:nether"
+  ]
+}

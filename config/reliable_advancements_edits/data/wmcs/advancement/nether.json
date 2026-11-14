@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "entered_nether": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "minecraft:the_nether"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "entered_nether"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "wmcs:orechid",
+  "display": {
+    "icon": {
+      "id": "minecraft:netherrack"
+    },
+    "title": "There Beneath",
+    "description": "Create a Nether Portal by transmuting Blaze Mesh into Obsidian",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:orechid"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "criteria": {
+    "pickup": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#botania:all_mana_pools"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "pickup"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "wmcs:pure_daisy",
+  "display": {
+    "icon": {
+      "id": "botania:mana_pool"
+    },
+    "title": "Glowing",
+    "description": "Craft a Mana Pool to store Mana",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:pure_daisy",
+    "wmcs:generating_flower"
+  ]
+}

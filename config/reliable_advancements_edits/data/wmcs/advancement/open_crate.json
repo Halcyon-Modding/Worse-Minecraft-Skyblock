@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "wmcs:item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "botania:open_crate"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "wmcs:item"
+    ]
+  ],
+  "parent": "wmcs:general_utility",
+  "display": {
+    "icon": {
+      "id": "botania:open_crate"
+    },
+    "title": "Tongues",
+    "description": "Craft an Open Crate, which drops any items it is given directly below itself",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:general_utility"
+  ]
+}

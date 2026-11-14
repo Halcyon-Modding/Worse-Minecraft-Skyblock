@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "wmcs:entity": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "entity": [
+          {
+            "predicate": {
+              "type": "labels:label"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "wmcs:entity"
+    ]
+  ],
+  "parent": "wmcs:general_utility",
+  "display": {
+    "icon": {
+      "id": "labels:label"
+    },
+    "title": "The Haze",
+    "description": "Apply a Decal to a label. Sort your storage!",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:general_utility"
+  ]
+}

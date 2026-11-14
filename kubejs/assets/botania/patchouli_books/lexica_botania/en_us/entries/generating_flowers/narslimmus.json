@@ -1,0 +1,20 @@
+{
+  "name": "botania.entry.narslimmus",
+  "category": "botania:generating_flowers",
+  "icon": "botania:narslimmus",
+  "advancement": "wmcs:rune",
+  "pages": [
+    {
+      "type": "text",
+      "text": "botania.page.narslimmus0"
+    },
+    {
+      "type": "botania:petal_apothecary",
+      "text": "botania.page.narslimmus1",
+      "recipe": "botania:petal_apothecary/narslimmus"
+    }
+  ],
+  "extra_recipe_mappings": {
+    "botania:floating_narslimmus": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "wmcs:item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "supplementaries:sack"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "wmcs:item"
+    ]
+  ],
+  "parent": "wmcs:item_management",
+  "display": {
+    "icon": {
+      "id": "supplementaries:sack"
+    },
+    "title": "Solstice Grind",
+    "description": "Craft a Sack, which can hold twelve stacks of items. Be careful not to carry more than you can handle!",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:item_management"
+  ]
+}

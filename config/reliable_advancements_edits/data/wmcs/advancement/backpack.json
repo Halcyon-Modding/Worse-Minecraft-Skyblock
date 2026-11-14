@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "wmcs:item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "reliable_backpacks:backpack"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "wmcs:item"
+    ]
+  ],
+  "display": {
+    "icon": {
+      "id": "reliable_backpacks:backpack",
+      "count": 1
+    },
+    "title": "The Ides",
+    "description": "Craft a Backpack to carry an extra chests worth of items on your back!"
+  },
+  "parent": "wmcs:item_management",
+  "parents": [
+    "wmcs:item_management"
+  ]
+}

@@ -1,0 +1,11 @@
+[
+  {
+    "action": "remove",
+    "items": [
+      "abyssal_decor:bottomless_bag_of_dirt",
+      "abyssal_decor:bottomless_bag_of_cobblestone",
+      "abyssal_decor:bottomless_bag_of_snow",
+      "abyssal_decor:bottomless_bag_of_netherrack"
+    ]
+  }
+]

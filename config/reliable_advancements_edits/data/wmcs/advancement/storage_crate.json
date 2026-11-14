@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "wmcs:item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:crate"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "wmcs:item"
+    ]
+  ],
+  "parent": "wmcs:general_utility",
+  "display": {
+    "icon": {
+      "id": "quark:crate"
+    },
+    "title": "Netherplace",
+    "description": "Craft a Storage Crate, which holds a total of 640 items (including unstackables!)",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:general_utility"
+  ]
+}

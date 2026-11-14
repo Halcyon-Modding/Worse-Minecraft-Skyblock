@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "wmcs:beginning": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+      }
+    }
+  },
+  "requirements": [
+    [
+      "wmcs:beginning"
+    ]
+  ],
+  "display": {
+    "announce_to_chat": false,
+    "frame": "goal",
+    "icon": {
+      "id": "minecraft:chest"
+    },
+    "title": "Brand New Fall",
+    "description": "Personal item management solutions!",
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+  },
+  "reliable_advancements:tab_member": true
+}

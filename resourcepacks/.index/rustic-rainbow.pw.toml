@@ -1,0 +1,17 @@
+filename = 'rustic_rainbow.zip'
+name = 'Rustic Rainbow'
+side = 'client'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '26.1', '26.1', '26.1.1', '26.1.1', '26.1.2', '26.1.2', '26.2', '26.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.3'
+
+[download]
+hash = '7a2814469b3aa265a8ff272db3ed18bc3328fe65c26a1d16869d284bc5dea64af90b49cde05b507bf0b4720e842b56e0f59405a63fdcde679375c34ea02725a2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6dmNMcDP/versions/IHhYmrSU/rustic_rainbow.zip'
+
+[update.modrinth]
+mod-id = '6dmNMcDP'
+version = 'IHhYmrSU'

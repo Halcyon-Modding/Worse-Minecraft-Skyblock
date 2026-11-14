@@ -1,0 +1,17 @@
+filename = 'sunbathing-v1.14.zip'
+name = 'Sunbathing Godrays'
+side = 'client'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11', '1.21.2', '1.21.2', '26.1.2', '26.1.2', '26.2', '26.2', '26.3', '26.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.14'
+
+[download]
+hash = '4a38321d7cc07d85c2707b684dbf58442b93e5cbbea1037d1237008916755b1b7a1620978aa70b3225b95691d1d50cd567d97b822778e79c1f80d58751827a5e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YSIJ1xkc/versions/c0UvRs9s/sunbathing-v1.14.zip'
+
+[update.modrinth]
+mod-id = 'YSIJ1xkc'
+version = 'c0UvRs9s'

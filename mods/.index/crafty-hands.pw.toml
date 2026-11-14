@@ -1,0 +1,17 @@
+filename = 'crafty_hands-1.1.1-1.21.1.jar'
+name = 'Crafty Hands'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.1-1.21.1'
+
+[download]
+hash = 'a3fd52606960968ec86a8465c7cf16f9b1919e97230c5fbf3a7fc4a23d0925f272fd825b0a2ca67e3821fdef8de5227f52045815a06d172e1f56ab3f9646edb4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fbFioxpw/versions/err8Qh7o/crafty_hands-1.1.1-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'fbFioxpw'
+version = 'err8Qh7o'

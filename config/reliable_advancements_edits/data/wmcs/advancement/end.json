@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "entered_end": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "minecraft:the_end"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "entered_end"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "wmcs:gaia_guardian",
+  "display": {
+    "icon": {
+      "id": "minecraft:end_stone"
+    },
+    "title": "Constellations",
+    "description": "Enter the End Portal",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:gaia_guardian"
+  ]
+}

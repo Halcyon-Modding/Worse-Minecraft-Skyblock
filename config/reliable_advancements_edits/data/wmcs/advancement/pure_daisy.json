@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "wmcs:pure_daisy": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "botania:pure_daisy"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "wmcs:pure_daisy"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "wmcs:beginning",
+  "display": {
+    "icon": {
+      "id": "botania:pure_daisy"
+    },
+    "title": "Grow",
+    "description": "Craft a Pure Daisy in a Petal Apothecary",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:beginning"
+  ]
+}

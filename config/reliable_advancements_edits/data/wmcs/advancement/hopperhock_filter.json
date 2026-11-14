@@ -1,0 +1,47 @@
+{
+  "criteria": {
+    "wmcs:entity": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "entity": [
+          {
+            "terms": [
+              {
+                "predicate": {
+                  "type": "minecraft:item_frame"
+                },
+                "entity": "this",
+                "condition": "minecraft:entity_properties"
+              },
+              {
+                "predicate": {
+                  "type": "minecraft:glow_item_frame"
+                },
+                "entity": "this",
+                "condition": "minecraft:entity_properties"
+              }
+            ],
+            "condition": "minecraft:any_of"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "wmcs:entity"
+    ]
+  ],
+  "parent": "wmcs:hopperhock",
+  "display": {
+    "icon": {
+      "id": "minecraft:glow_item_frame"
+    },
+    "title": "Human",
+    "description": "Place an item into an Item Frame, which when attached to a container adjacent to a Hopperhock, will filter said storage. (Glow Item Frames filter the contents of containers placed in them, such as bundles.)",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:hopperhock"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "criteria": {
+    "wmcs:item": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "predicate": {
+              "block": {
+                "blocks": "botania:hopperhock"
+              }
+            },
+            "condition": "minecraft:location_check"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "wmcs:item"
+    ]
+  ],
+  "parent": "wmcs:general_utility",
+  "display": {
+    "icon": {
+      "id": "botania:hopperhock"
+    },
+    "title": "Fall Into The Wind",
+    "description": "Place a Hopperhock, which picks up items around itself in a radius and deposits them in adjacent inventories",
+    "frame": "task"
+  },
+  "parents": [
+    "wmcs:general_utility"
+  ]
+}
